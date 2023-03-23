@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+}
+
+.cvform-button:hover{
+    background-color: white;
+    border-radius: 5%;
+    border:1px blue solid; 
+}
